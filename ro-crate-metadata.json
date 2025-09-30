@@ -28,9 +28,9 @@
                 "SoftwareApplication"
             ],
             "author": [
-                {
-                    "@id": "#0000-0003-0879-9251"
-                }
+                {"@id": "https://orcid.org/0009-0006-2241-3377"},
+                {"@id": "https://orcid.org/0000-0003-3237-9943"},
+                {"@id": "https://orcid.org/0000-0002-2118-3147"}
             ],
             "conformsTo": [
                 {
@@ -47,9 +47,19 @@
             "name": "A COrpus of Oz Early English (COOEE) notebook"
         },
         {
-            "@id": "#0000-0003-0879-9251",
+            "@id": "https://orcid.org/0009-0006-2241-3377",
             "@type": "Person",
-            "name": "Foley, Ben"
+            "name": "Smith, Rosanna"
+        },
+        {
+            "@id": "https://orcid.org/0000-0003-3237-9943",
+            "@type": "Person",
+            "name": "Musgrave, Simon"
+        },
+        {
+            "@id": "https://orcid.org/0000-0002-2118-3147",
+            "@type": "Person",
+            "name": "Smith, River Tae"
         }
     ]
 }
