@@ -6,5 +6,5 @@ Load data from LDACA api (demo), convert to a tabular representation with [RO-Cr
 
 
 ```bash
-uv run --with jupyter jupyter lab
+uv run --with jupyter jupyter notebook cooee.ipynb
 ```
