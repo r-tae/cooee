@@ -136,3 +136,5 @@ cooee/
 
 # RO-Crate tabulator database
 cooee.db
+
+.DS_Store
