@@ -132,7 +132,7 @@ dmypy.json
 .pyre/
 
 # Corpus download directory
-cooee/
+cooee/*
 
 # RO-Crate tabulator database
 cooee.db
