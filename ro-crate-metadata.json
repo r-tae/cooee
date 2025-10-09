@@ -4,7 +4,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-06-07T05:26:48+00:00",
+            "datePublished": "2025-10-09T03:33:33+00:00",
             "hasPart": [
                 {
                     "@id": "cooee.ipynb"
@@ -28,36 +28,42 @@
                 "SoftwareApplication"
             ],
             "author": [
-                {"@id": "https://orcid.org/0009-0006-2241-3377"},
-                {"@id": "https://orcid.org/0000-0003-3237-9943"},
-                {"@id": "https://orcid.org/0000-0002-2118-3147"}
+                {
+                    "@id": "0009-0006-2241-3377"
+                },
+                {
+                    "@id": "0000-0003-3237-9943"
+                },
+                {
+                    "@id": "0000-0002-2118-3147"
+                }
             ],
             "conformsTo": [
                 {
                     "@id": "https://w3id.org/ldac/profile#Notebook"
                 }
             ],
-            "description": "A sample notebook for the cooee data",
+            "description": "",
             "encodingFormat": "application/x-ipynb+json",
             "input": [
                 {
-                    "@id": "arcp://name,doi10.26180%2F23961609"
+                    "@id": ""
                 }
             ],
-            "name": "A COrpus of Oz Early English (COOEE) notebook"
+            "name": "cooee.ipynb"
         },
         {
-            "@id": "https://orcid.org/0009-0006-2241-3377",
+            "@id": "0009-0006-2241-3377",
             "@type": "Person",
             "name": "Smith, Rosanna"
         },
         {
-            "@id": "https://orcid.org/0000-0003-3237-9943",
+            "@id": "0000-0003-3237-9943",
             "@type": "Person",
             "name": "Musgrave, Simon"
         },
         {
-            "@id": "https://orcid.org/0000-0002-2118-3147",
+            "@id": "0000-0002-2118-3147",
             "@type": "Person",
             "name": "Smith, River Tae"
         }
