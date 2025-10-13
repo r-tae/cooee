@@ -43,7 +43,7 @@
                     "@id": "https://w3id.org/ldac/profile#Notebook"
                 }
             ],
-            "description": "",
+            "description": "A topic modeling notebook for the cooee collection",
             "encodingFormat": "application/x-ipynb+json",
             "input": [
                 {
